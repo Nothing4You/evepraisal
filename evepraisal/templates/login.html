@@ -23,7 +23,8 @@
         <h3>Sign in with your OpenID</h3>
         {% if error %}<p class=error><strong>Error:</strong> {{ error }}</p>{% endif %}
         <div class="openid-providers" style="text-align: center">
-          <button class="btn" type="button" onclick="$('#openid_url').val('https://www.google.com/accounts/o8/id'); $('#login_form').submit()">Google</button>
+          <!-- <button class="btn" type="button" onclick="$('#openid_url').val('https://www.google.com/accounts/o8/id'); $('#login_form').submit()">Google</button> -->
+          <!-- Google does not allow OpenID auth for non-registered apps, registrations are closed. Has to be implemented with OpenID 2.0 -->
           <button class="btn" type="button" onclick="$('#openid_url').val('http://yahoo.com/'); $('#login_form').submit()">Yahoo</button>
           <button class="btn" type="button" onclick="$('#openid_url').val('https://openid.stackexchange.com'); $('#login_form').submit()">Stack Exchange</button>
           <button class="btn" type="button" onclick="$('#openid_url').val('http://myopenid.com/'); $('#login_form').submit()">MyOpenID</button>
