@@ -17,10 +17,11 @@ if __name__ == '__main__':
                   const.groupTitan,
                   const.groupDreadnought,
                   const.groupCapitalIndustrialShip]
-    EVEPATH = '/Applications/EVE Online.app/Contents/Resources/' \
-              'EVE Online.app/Contents/Resources/transgaming/c_drive/' \
-              'Program Files/CCP/EVE'
+    #EVEPATH = '/Applications/EVE Online.app/Contents/Resources/' \
+    #          'EVE Online.app/Contents/Resources/transgaming/c_drive/' \
+    #          'Program Files/CCP/EVE'
     # EVEPATH = "C:/EVE"
+    EVEPATH = 'C:\Program Files (x86)\CCP\EVE'
 
     eve = blue.EVE(EVEPATH)
     cfg = eve.getconfigmgr()
