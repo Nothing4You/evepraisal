@@ -93,9 +93,9 @@ def get_market_values(eve_types, options=None):
                 v['sell']['price'] = v['sell'][sell_price_metric]
                 market_prices[k] = v
 
-                # Cache for up to 10 hours
+                # Cache for up to 1 hours
                 cache.set(memcache_type_key(k, options=options),
-                          v, timeout=10 * 60 * 60)
+                          v, timeout=1 * 60 * 60)
         except urllib2.HTTPError:
             pass
     return market_prices
