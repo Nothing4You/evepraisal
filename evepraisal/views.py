@@ -11,10 +11,10 @@ from flask import (
 from sqlalchemy import desc
 import evepaste
 
-from helpers import login_required
-from estimate import get_market_prices
-from models import Appraisals, Users, appraisal_count
-from parser import parse
+from .helpers import login_required
+from .estimate import get_market_prices
+from .models import Appraisals, Users, appraisal_count
+from .parser import parse
 from . import app, db, cache, oid
 
 
@@ -24,7 +24,7 @@ def estimate_cost():
     raw_paste = request.form.get('raw_paste', '')
     solar_system = request.form.get('market', '30000142')
 
-    if solar_system not in app.config['VALID_SOLAR_SYSTEMS'].keys():
+    if solar_system not in list(app.config['VALID_SOLAR_SYSTEMS'].keys()):
         abort(400)
 
     try:
@@ -180,7 +180,7 @@ def create_or_login(resp):
         db.session.add(user)
         db.session.commit()
 
-    flash(u'Successfully signed in')
+    flash('Successfully signed in')
     g.user = user
     return redirect(oid.get_next_url())
 
@@ -188,5 +188,5 @@ def create_or_login(resp):
 def logout():
     session.pop('openid', None)
     session.pop('options', None)
-    flash(u'You have been signed out')
+    flash('You have been signed out')
     return redirect(url_for('index'))

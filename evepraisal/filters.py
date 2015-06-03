@@ -5,7 +5,7 @@ from babel.dates import format_timedelta
 from flask import request
 
 from . import app
-from models import get_type_by_name
+from .models import get_type_by_name
 
 
 @app.context_processor

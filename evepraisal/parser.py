@@ -4,8 +4,8 @@ from re import sub
 
 import evepaste
 from evepaste import parsers
-from models import get_type_by_name
-from helpers import iter_types
+from .models import get_type_by_name
+from .helpers import iter_types
 
 
 def parse(raw_paste):
@@ -93,7 +93,7 @@ def listing_parser(lines):
                 bad_lines.append(l)
 
     return [{'name': name, 'quantity': quantity}
-            for name, quantity in results.items()], bad_lines
+            for name, quantity in list(results.items())], bad_lines
 
 
 def dscan_parser(lines):
@@ -104,7 +104,7 @@ def dscan_parser(lines):
         items[result['name']] += 1
 
     return [{'name': name, 'quantity': quantity}
-            for name, quantity in items.items()], bad_lines
+            for name, quantity in list(items.items())], bad_lines
 
 
 def tryhard_parser(lines):
@@ -167,7 +167,7 @@ def tryhard_parser(lines):
         raise evepaste.Unparsable('No valid input')
 
     return [{'name': name, 'quantity': quantity}
-            for name, quantity in results.items()], bad_lines
+            for name, quantity in list(results.items())], bad_lines
 
 
 def int_convert(s):

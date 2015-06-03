@@ -54,8 +54,8 @@ def upgrade():
     scans = list(results)
 
     while scans:
-        print("Migrating batch of %s. count=%s, marker=%s"
-              % (result_count, COUNT, marker))
+        print(("Migrating batch of %s. count=%s, marker=%s"
+              % (result_count, COUNT, marker)))
         for i, scan in enumerate(scans):
             scan_data = json.loads(scan.Data)
             raw_paste = scan_data.get('raw_paste',
@@ -69,9 +69,9 @@ def upgrade():
             try:
                 kind, result, bad_lines = parse(raw_paste_encoded)
             except evepaste.Unparsable:
-                print('--[Unparsable: %s]---------' % scan.Id)
+                print(('--[Unparsable: %s]---------' % scan.Id))
                 print([raw_paste])
-                print('-'*20)
+                print(('-'*20))
                 kind = 'listing'
                 result = [{'name': item['typeName'],
                            'quantity': item['count']}
@@ -79,7 +79,7 @@ def upgrade():
                 bad_lines = scan_data['bad_line_items']
                 PARSING_FAILURE_COUNT += 1
             except Exception:
-                print('--[UNEXPECTED ERROR: %s]---------' % scan.Id)
+                print(('--[UNEXPECTED ERROR: %s]---------' % scan.Id))
                 print([raw_paste])
                 # traceback.print_exc()
                 # print('-'*20)
@@ -105,17 +105,17 @@ def upgrade():
         try:
             db.session.commit()
         except Exception:
-            print raw_paste
+            print(raw_paste)
             db.session.rollback()
 
         results = Scans.query.filter(
             Scans.Id > marker).order_by(Scans.Id).limit(result_count)
         scans = list(results)
 
-    print("Sucesses: %s" % SUCCESS_COUNT)
-    print("Modified: %s" % MODIFIED_COUNT)
-    print("Parsing Failures: %s" % PARSING_FAILURE_COUNT)
-    print("Total: %s" % COUNT)
+    print(("Sucesses: %s" % SUCCESS_COUNT))
+    print(("Modified: %s" % MODIFIED_COUNT))
+    print(("Parsing Failures: %s" % PARSING_FAILURE_COUNT))
+    print(("Total: %s" % COUNT))
 
 
 def downgrade():

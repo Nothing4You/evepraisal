@@ -2,7 +2,7 @@
 # This is a script intended to be ran only when there are updates to the item
 # database. The results are dumped into a file as JSON to be read by the app.
 
-from __future__ import print_function
+
 
 import bz2
 import collections
@@ -11,7 +11,7 @@ import os
 import shutil
 import sqlite3
 import tempfile
-import urllib2
+import urllib.request
 
 # from reverence import blue, const
 
@@ -28,7 +28,7 @@ SQLITE_DUMP_URL = "https://www.fuzzwork.co.uk/dump/sqlite-latest.sqlite.bz2"
 
 def download_database(destination_path):
     decompressor = bz2.BZ2Decompressor()
-    response = urllib2.urlopen(SQLITE_DUMP_URL)
+    response = urllib.request.urlopen(SQLITE_DUMP_URL)
 
     total_bytes = int(response.info().getheader('Content-Length').strip())
     chunk = 1000000  # 1 megabyte at a time

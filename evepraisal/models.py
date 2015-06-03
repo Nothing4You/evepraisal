@@ -1,7 +1,7 @@
 import json
 
 from . import db
-from helpers import iter_types
+from .helpers import iter_types
 
 from sqlalchemy import types
 from sqlalchemy.exc import OperationalError
@@ -109,7 +109,7 @@ def appraisal_count():
 
 def row_to_dict(row):
     return dict((col, getattr(row, col))
-                for col in row.__table__.columns.keys())
+                for col in list(row.__table__.columns.keys()))
 
 
 TYPES = json.loads(open('data/types.json').read())

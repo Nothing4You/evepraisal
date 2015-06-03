@@ -1,9 +1,9 @@
-import urllib2
+import urllib.request, urllib.error
 import json
 import xml.etree.ElementTree as ET
 
 from . import app, cache
-from models import get_type_by_id
+from .models import get_type_by_id
 
 
 def memcache_type_key(typeId, options=None):
@@ -74,9 +74,9 @@ def get_market_values(eve_types, options=None):
         url = "http://api.eve-central.com/api/marketstat?%s" % query_str
         app.logger.debug("API Call: %s", url)
         try:
-            request = urllib2.Request(url)
+            request = urllib.request.Request(url)
             request.add_header('User-Agent', app.config['USER_AGENT'])
-            response = urllib2.build_opener().open(request).read()
+            response = urllib.request.build_opener().open(request).read()
             stats = ET.fromstring(response).findall("./marketstat/type")
 
             for marketstat in stats:
@@ -96,7 +96,7 @@ def get_market_values(eve_types, options=None):
                 # Cache for up to 1 hours
                 cache.set(memcache_type_key(k, options=options),
                           v, timeout=1 * 60 * 60)
-        except urllib2.HTTPError:
+        except urllib.error.HTTPError:
             pass
     return market_prices
 
@@ -153,9 +153,9 @@ def get_market_values_2(eve_types, options=None):
             "char_name=magerawr&buysell=a&%s" % (query_str)
         app.logger.debug("API Call: %s", url)
         try:
-            request = urllib2.Request(url)
+            request = urllib.request.Request(url)
             request.add_header('User-Agent', app.config['USER_AGENT'])
-            response = json.loads(urllib2.build_opener().open(request).read())
+            response = json.loads(urllib.request.build_opener().open(request).read())
 
             for row in response['emd']['result']:
                 row = row['row']
@@ -173,7 +173,7 @@ def get_market_values_2(eve_types, options=None):
                                                'min': price,
                                                'max': price}
 
-            for typeId, prices in market_prices.iteritems():
+            for typeId, prices in market_prices.items():
                 avg = (prices['sell']['avg'] + prices['buy']['avg']) / 2
                 market_prices[typeId]['all'] = {'avg': avg,
                                                 'min': avg,
@@ -188,7 +188,7 @@ def get_market_values_2(eve_types, options=None):
                 cache.set(
                     memcache_type_key(typeId, options=options),
                     prices, timeout=10 * 60 * 60)
-        except urllib2.HTTPError:
+        except urllib.error.HTTPError:
             pass
     return market_prices
 
@@ -216,7 +216,7 @@ def get_componentized_values(eve_types, options=None):
             component_types = dict((c['materialTypeID'], c['quantity'])
                                    for c in type_details['components'])
 
-            component_prices = get_market_prices(component_types.keys(),
+            component_prices = get_market_prices(list(component_types.keys()),
                                                  options=options)
             price_map = dict(component_prices)
             zeroed_price = {'avg': 0, 'min': 0, 'max': 0, 'price': 0}
@@ -225,7 +225,7 @@ def get_componentized_values(eve_types, options=None):
                 'sell': zeroed_price.copy(),
                 'all': zeroed_price.copy(),
             }
-            for component, quantity in component_types.items():
+            for component, quantity in list(component_types.items()):
                 for market_type in ['buy', 'sell', 'all']:
                     for stat in ['avg', 'min', 'max', 'price']:
                         _price = price_map.get(component)
@@ -256,11 +256,11 @@ def get_market_prices(modules, options=None):
         _prices = pricing_method(unpriced_modules, options=options)
         # app.logger.debug("Found %s/%s items using method: %s",
         #                  len(_prices), len(modules), pricing_method)
-        for type_id, pricing_info in _prices.items():
+        for type_id, pricing_info in list(_prices.items()):
             if type_id in unpriced_modules:
                 prices[type_id] = pricing_info
                 unpriced_modules.remove(type_id)
             else:
                 app.logger.debug("[Method: %s] A price was returned which "
                                  "wasn't asked for", pricing_method)
-    return prices.items()
+    return list(prices.items())
