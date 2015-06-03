@@ -33,7 +33,7 @@ setup(
         'sqlalchemy',
         'alembic',
         'pylibmc',
-        'evepaste',
+        'eveparser',
     ],
     zip_safe=False,
 )

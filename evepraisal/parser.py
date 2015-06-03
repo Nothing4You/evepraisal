@@ -2,8 +2,8 @@ from collections import defaultdict
 from itertools import takewhile
 from re import sub
 
-import evepaste
-from evepaste import parsers
+import eveparser
+from eveparser import parsers
 from .models import get_type_by_name
 from .helpers import iter_types
 
@@ -14,7 +14,7 @@ def parse(raw_paste):
     representative_kind = 'unknown'
     largest_kind_num = 0
 
-    parser_list = list(evepaste.PARSER_TABLE) + [
+    parser_list = list(eveparser.PARSER_TABLE) + [
         ('listing', listing_parser),
         ('heuristic', tryhard_parser),
     ]
@@ -26,7 +26,7 @@ def parse(raw_paste):
             if not parser_list:
                 break
 
-            kind, result, bad_lines = evepaste.parse(raw_paste,
+            kind, result, bad_lines = eveparser.parse(raw_paste,
                                                      parsers=parser_list)
 
             if result:
@@ -63,7 +63,7 @@ def parse(raw_paste):
             if not bad_lines:
                 break
 
-        except evepaste.Unparsable:
+        except eveparser.Unparsable:
             if results:
                 break
             else:
@@ -164,7 +164,7 @@ def tryhard_parser(lines):
                 bad_lines.append(line)
 
     if not results:
-        raise evepaste.Unparsable('No valid input')
+        raise eveparser.Unparsable('No valid input')
 
     return [{'name': name, 'quantity': quantity}
             for name, quantity in list(results.items())], bad_lines

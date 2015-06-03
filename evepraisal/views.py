@@ -9,7 +9,7 @@ from flask import (
     g, flash, request, render_template, url_for, redirect, session,
     send_from_directory, abort)
 from sqlalchemy import desc
-import evepaste
+import eveparser
 
 from .helpers import login_required
 from .estimate import get_market_prices
@@ -29,7 +29,7 @@ def estimate_cost():
 
     try:
         parse_results = parse(raw_paste)
-    except evepaste.Unparsable as ex:
+    except eveparser.Unparsable as ex:
         if raw_paste:
             app.logger.warning("User input invalid data: %s", raw_paste)
         return render_template(

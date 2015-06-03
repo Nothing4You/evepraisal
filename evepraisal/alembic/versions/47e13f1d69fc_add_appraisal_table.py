@@ -11,7 +11,7 @@ revision = '47e13f1d69fc'
 down_revision = None
 import json
 
-import evepaste
+import eveparser
 import traceback
 
 from evepraisal import db
@@ -68,7 +68,7 @@ def upgrade():
 
             try:
                 kind, result, bad_lines = parse(raw_paste_encoded)
-            except evepaste.Unparsable:
+            except eveparser.Unparsable:
                 print(('--[Unparsable: %s]---------' % scan.Id))
                 print([raw_paste])
                 print(('-'*20))

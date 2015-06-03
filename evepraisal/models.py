@@ -25,7 +25,7 @@ class Appraisals(db.Model):
     Kind = db.Column(db.Text(), index=True)
     #: Raw Input taken from the user
     RawInput = db.Column(db.Text())
-    #: JSON as a result of the parser (evepaste)
+    #: JSON as a result of the parser (eveparser)
     Parsed = db.Column(JsonType())
     #: Parsed result Version
     ParsedVersion = db.Column(db.Integer())
