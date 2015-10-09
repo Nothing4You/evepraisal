@@ -113,7 +113,7 @@ def row_to_dict(row):
 
 
 TYPES = json.loads(open('data/types.json').read())
-TYPES_BY_NAME = dict((t['typeName'].lower(), t) for t in TYPES)
+TYPES_BY_NAME = dict((t['typeName'].lower(), t) for t in reversed(TYPES))
 TYPES_BY_ID = dict((t['typeID'], t) for t in TYPES)
 
 
