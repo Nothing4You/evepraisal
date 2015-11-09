@@ -4309,35 +4309,35 @@
     "typeID": 1292, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Basic Thermic Plating"
+    "typeName": "Basic Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 1294, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Thermic Plating I"
+    "typeName": "Thermal Plating I"
   }, 
   {
     "volume": 0.01, 
     "typeID": 1295, 
     "groupID": 163, 
     "market": true, 
-    "typeName": "Thermic Plating I Blueprint"
+    "typeName": "Thermal Plating I Blueprint"
   }, 
   {
     "volume": 5.0, 
     "typeID": 1296, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Thermic Plating II"
+    "typeName": "Thermal Plating II"
   }, 
   {
     "volume": 0.01, 
     "typeID": 1297, 
     "groupID": 163, 
     "market": false, 
-    "typeName": "Thermic Plating II Blueprint"
+    "typeName": "Thermal Plating II Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -5338,7 +5338,7 @@
     "typeID": 1800, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Basic Thermic Dissipation Amplifier"
+    "typeName": "Basic Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
@@ -7501,14 +7501,14 @@
     "typeID": 2295, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Thermic Dissipation Field I"
+    "typeName": "Thermal Dissipation Field I"
   }, 
   {
     "volume": 0.01, 
     "typeID": 2296, 
     "groupID": 157, 
     "market": true, 
-    "typeName": "Thermic Dissipation Field I Blueprint"
+    "typeName": "Thermal Dissipation Field I Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -7557,14 +7557,14 @@
     "typeID": 2303, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Thermic Dissipation Field II"
+    "typeName": "Thermal Dissipation Field II"
   }, 
   {
     "volume": 0.01, 
     "typeID": 2304, 
     "groupID": 157, 
     "market": false, 
-    "typeName": "Thermic Dissipation Field II Blueprint"
+    "typeName": "Thermal Dissipation Field II Blueprint"
   }, 
   {
     "volume": 0.01, 
@@ -8908,28 +8908,28 @@
     "typeID": 2537, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Thermic Dissipation Amplifier I"
+    "typeName": "Thermal Dissipation Amplifier I"
   }, 
   {
     "volume": 0.01, 
     "typeID": 2538, 
     "groupID": 296, 
     "market": true, 
-    "typeName": "Thermic Dissipation Amplifier I Blueprint"
+    "typeName": "Thermal Dissipation Amplifier I Blueprint"
   }, 
   {
     "volume": 5.0, 
     "typeID": 2539, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Thermic Dissipation Amplifier II"
+    "typeName": "Thermal Dissipation Amplifier II"
   }, 
   {
     "volume": 0.01, 
     "typeID": 2540, 
     "groupID": 296, 
     "market": false, 
-    "typeName": "Thermic Dissipation Amplifier II Blueprint"
+    "typeName": "Thermal Dissipation Amplifier II Blueprint"
   }, 
   {
     "volume": 0.0, 
@@ -19603,77 +19603,77 @@
     "typeID": 4180, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Men's 'Form' Shirt (black)"
+    "typeName": "Men's 'Form' T-shirt (black)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4181, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Men's 'Form' Shirt (blue)"
+    "typeName": "Men's 'Form' T-shirt (blue)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4182, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Men's 'Form' Shirt (brown)"
+    "typeName": "Men's 'Form' T-shirt (brown)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4183, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Men's 'Form' Shirt (dark blue)"
+    "typeName": "Men's 'Form' T-shirt (dark blue)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4184, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Men's 'Form' Shirt (dark red)"
+    "typeName": "Men's 'Form' T-shirt (dark red)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4185, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Men's 'Form' Shirt (khaki)"
+    "typeName": "Men's 'Form' T-shirt (khaki)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4186, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Men's 'Form' Shirt (light gray)"
+    "typeName": "Men's 'Form' T-shirt (light gray)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4187, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Men's 'Form' Shirt (olive)"
+    "typeName": "Men's 'Form' T-shirt (olive)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4188, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Men's 'Form' Shirt (dark camo)"
+    "typeName": "Men's 'Form' T-shirt (dark camo)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4189, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Men's 'Form' Shirt (desert camo)"
+    "typeName": "Men's 'Form' T-shirt (desert camo)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4190, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Men's 'Form' Shirt (white)"
+    "typeName": "Men's 'Form' T-shirt (white)"
   }, 
   {
     "volume": 0.1, 
@@ -19750,105 +19750,105 @@
     "typeID": 4201, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (black)"
+    "typeName": "Women's 'Function' T-shirt (black)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4202, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (blue)"
+    "typeName": "Women's 'Function' T-shirt (blue)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4203, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (brown)"
+    "typeName": "Women's 'Function' T-shirt (brown)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4204, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (cream)"
+    "typeName": "Women's 'Function' T-shirt (cream)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4205, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (dark blue)"
+    "typeName": "Women's 'Function' T-shirt (dark blue)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4206, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (dark red)"
+    "typeName": "Women's 'Function' T-shirt (dark red)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4207, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (gray)"
+    "typeName": "Women's 'Function' T-shirt (gray)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4208, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (green)"
+    "typeName": "Women's 'Function' T-shirt (green)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4209, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (khaki)"
+    "typeName": "Women's 'Function' T-shirt (khaki)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4210, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (olive)"
+    "typeName": "Women's 'Function' T-shirt (olive)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4211, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (orange)"
+    "typeName": "Women's 'Function' T-shirt (orange)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4212, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (dark camo)"
+    "typeName": "Women's 'Function' T-shirt (dark camo)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4213, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (desert camo)"
+    "typeName": "Women's 'Function' T-shirt (desert camo)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4214, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (red)"
+    "typeName": "Women's 'Function' T-shirt (red)"
   }, 
   {
     "volume": 0.1, 
     "typeID": 4215, 
     "groupID": 1089, 
     "market": true, 
-    "typeName": "Women's 'Function' Shirt (white)"
+    "typeName": "Women's 'Function' T-shirt (white)"
   }, 
   {
     "volume": 0.1, 
@@ -25343,14 +25343,14 @@
     "typeID": 9566, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Supplemental Thermic Dissipation Amplifier"
+    "typeName": "Supplemental Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
     "typeID": 9568, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Upgraded Thermic Dissipation Amplifier I"
+    "typeName": "Upgraded Thermal Dissipation Amplifier I"
   }, 
   {
     "volume": 5.0, 
@@ -25413,7 +25413,7 @@
     "typeID": 9660, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Limited Thermic Dissipation Field I"
+    "typeName": "Limited Thermal Dissipation Field I"
   }, 
   {
     "volume": 50.0, 
@@ -29431,42 +29431,42 @@
     "typeID": 11255, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Basic Energized Thermic Membrane"
+    "typeName": "Basic Energized Thermal Membrane"
   }, 
   {
     "volume": 0.01, 
     "typeID": 11256, 
     "groupID": 163, 
     "market": true, 
-    "typeName": "Basic Energized Thermic Membrane Blueprint"
+    "typeName": "Basic Energized Thermal Membrane Blueprint"
   }, 
   {
     "volume": 25.0, 
     "typeID": 11257, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Energized Thermic Membrane I"
+    "typeName": "Energized Thermal Membrane I"
   }, 
   {
     "volume": 0.01, 
     "typeID": 11258, 
     "groupID": 163, 
     "market": true, 
-    "typeName": "Energized Thermic Membrane I Blueprint"
+    "typeName": "Energized Thermal Membrane I Blueprint"
   }, 
   {
     "volume": 5.0, 
     "typeID": 11259, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Energized Thermic Membrane II"
+    "typeName": "Energized Thermal Membrane II"
   }, 
   {
     "volume": 0.01, 
     "typeID": 11260, 
     "groupID": 163, 
     "market": false, 
-    "typeName": "Energized Thermic Membrane II Blueprint"
+    "typeName": "Energized Thermal Membrane II Blueprint"
   }, 
   {
     "volume": 25.0, 
@@ -29515,14 +29515,14 @@
     "typeID": 11277, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Armor Thermic Hardener I"
+    "typeName": "Armor Thermal Hardener I"
   }, 
   {
     "volume": 0.01, 
     "typeID": 11278, 
     "groupID": 348, 
     "market": true, 
-    "typeName": "Armor Thermic Hardener I Blueprint"
+    "typeName": "Armor Thermal Hardener I Blueprint"
   }, 
   {
     "volume": 20.0, 
@@ -30880,7 +30880,7 @@
     "typeID": 11566, 
     "groupID": 1209, 
     "market": true, 
-    "typeName": "Thermic Shield Compensation"
+    "typeName": "Thermal Shield Compensation"
   }, 
   {
     "typeID": 11567, 
@@ -31391,14 +31391,14 @@
     "typeID": 11648, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Armor Thermic Hardener II"
+    "typeName": "Armor Thermal Hardener II"
   }, 
   {
     "volume": 0.01, 
     "typeID": 11649, 
     "groupID": 348, 
     "market": false, 
-    "typeName": "Armor Thermic Hardener II Blueprint"
+    "typeName": "Armor Thermal Hardener II Blueprint"
   }, 
   {
     "volume": 100100.0, 
@@ -32759,14 +32759,14 @@
     "typeName": "Armageddon Imperial Issue Blueprint"
   }, 
   {
-    "volume": 28100.0, 
+    "volume": 22100.0, 
     "typeID": 11940, 
     "groupID": 25, 
     "market": true, 
     "typeName": "Gold Magnate"
   }, 
   {
-    "volume": 28100.0, 
+    "volume": 22100.0, 
     "typeID": 11942, 
     "groupID": 25, 
     "market": true, 
@@ -39364,7 +39364,7 @@
     "typeID": 13966, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Dread Guristas Thermic Dissipation Field"
+    "typeName": "Dread Guristas Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
@@ -39434,14 +39434,14 @@
     "typeID": 13982, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "True Sansha Armor Thermic Hardener"
+    "typeName": "True Sansha Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 13984, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Dark Blood Armor Thermic Hardener"
+    "typeName": "Dark Blood Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
@@ -39469,7 +39469,7 @@
     "typeID": 13992, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Domination Armor Thermic Hardener"
+    "typeName": "Domination Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
@@ -39483,7 +39483,7 @@
     "typeID": 13995, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Domination Thermic Dissipation Field"
+    "typeName": "Domination Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
@@ -39595,21 +39595,21 @@
     "typeID": 14023, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Domination Thermic Plating"
+    "typeName": "Domination Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14025, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "True Sansha Thermic Plating"
+    "typeName": "True Sansha Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14027, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Dark Blood Thermic Plating"
+    "typeName": "Dark Blood Thermal Plating"
   }, 
   {
     "volume": 5.0, 
@@ -39630,14 +39630,14 @@
     "typeID": 14033, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Domination Thermic Dissipation Amplifier"
+    "typeName": "Domination Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14035, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Dread Guristas Thermic Dissipation Amplifier"
+    "typeName": "Dread Guristas Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
@@ -39714,7 +39714,7 @@
     "typeID": 14057, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Shadow Serpentis Thermic Plating"
+    "typeName": "Shadow Serpentis Thermal Plating"
   }, 
   {
     "volume": 5.0, 
@@ -39742,7 +39742,7 @@
     "typeID": 14065, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Shadow Serpentis Armor Thermic Hardener"
+    "typeName": "Shadow Serpentis Armor Thermal Hardener"
   }, 
   {
     "volume": 50.0, 
@@ -39854,21 +39854,21 @@
     "typeID": 14094, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Dark Blood Energized Thermic Membrane"
+    "typeName": "Dark Blood Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14096, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "True Sansha Energized Thermic Membrane"
+    "typeName": "True Sansha Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14098, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Shadow Serpentis Energized Thermic Membrane"
+    "typeName": "Shadow Serpentis Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
@@ -41464,14 +41464,14 @@
     "typeID": 14588, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Mizuro's Modified Thermic Plating"
+    "typeName": "Mizuro's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14592, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Gotan's Modified Thermic Plating"
+    "typeName": "Gotan's Modified Thermal Plating"
   }, 
   {
     "volume": 25.0, 
@@ -41520,14 +41520,14 @@
     "typeID": 14614, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Hakim's Modified Thermic Dissipation Amplifier"
+    "typeName": "Hakim's Modified Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14618, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Tobias' Modified Thermic Dissipation Amplifier"
+    "typeName": "Tobias' Modified Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
@@ -41912,28 +41912,28 @@
     "typeID": 14724, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Kaikka's Modified Thermic Dissipation Amplifier"
+    "typeName": "Kaikka's Modified Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14726, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Thon's Modified Thermic Dissipation Amplifier"
+    "typeName": "Thon's Modified Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14728, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Vepas' Modified Thermic Dissipation Amplifier"
+    "typeName": "Vepas' Modified Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14730, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Estamel's Modified Thermic Dissipation Amplifier"
+    "typeName": "Estamel's Modified Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
@@ -42080,28 +42080,28 @@
     "typeID": 14760, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Kaikka's Modified Thermic Dissipation Field"
+    "typeName": "Kaikka's Modified Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14761, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Thon's Modified Thermic Dissipation Field"
+    "typeName": "Thon's Modified Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14762, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Vepas's Modified Thermic Dissipation Field"
+    "typeName": "Vepas's Modified Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14763, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Estamel's Modified Thermic Dissipation Field"
+    "typeName": "Estamel's Modified Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
@@ -42696,56 +42696,56 @@
     "typeID": 14920, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Brokara's Modified Thermic Plating"
+    "typeName": "Brokara's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14922, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Tairei's Modified Thermic Plating"
+    "typeName": "Tairei's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14924, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Selynne's Modified Thermic Plating"
+    "typeName": "Selynne's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14926, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Raysere's Modified Thermic Plating"
+    "typeName": "Raysere's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14928, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Vizan's Modified Thermic Plating"
+    "typeName": "Vizan's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14930, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Ahremen's Modified Thermic Plating"
+    "typeName": "Ahremen's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14932, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Chelm's Modified Thermic Plating"
+    "typeName": "Chelm's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14934, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Draclira's Modified Thermic Plating"
+    "typeName": "Draclira's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
@@ -42808,56 +42808,56 @@
     "typeID": 14952, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Brokara's Modified Energized Thermic Membrane"
+    "typeName": "Brokara's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14954, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Tairei's Modified Energized Thermic Membrane"
+    "typeName": "Tairei's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14956, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Selynne's Modified Energized Thermic Membrane"
+    "typeName": "Selynne's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14958, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Raysere's Modified Energized Thermic Membrane"
+    "typeName": "Raysere's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14960, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Vizan's Modified Energized Thermic Membrane"
+    "typeName": "Vizan's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14962, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Ahremen's Modified Energized Thermic Membrane"
+    "typeName": "Ahremen's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14964, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Chelm's Modified Energized Thermic Membrane"
+    "typeName": "Chelm's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 14966, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Draclira's Modified Energized Thermic Membrane"
+    "typeName": "Draclira's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
@@ -43088,56 +43088,56 @@
     "typeID": 15032, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Brokara's Modified Armor Thermic Hardener"
+    "typeName": "Brokara's Modified Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15034, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Tairei's Modified Armor Thermic Hardener"
+    "typeName": "Tairei's Modified Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15036, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Selynne's Modified Armor Thermic Hardener"
+    "typeName": "Selynne's Modified Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15038, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Raysere's Modified Armor Thermic Hardener"
+    "typeName": "Raysere's Modified Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15040, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Vizan's Modified Armor Thermic Hardener"
+    "typeName": "Vizan's Modified Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15042, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Ahremen's Modified Armor Thermic Hardener"
+    "typeName": "Ahremen's Modified Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15044, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Chelm's Modified Armor Thermic Hardener"
+    "typeName": "Chelm's Modified Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15046, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Draclira's Modified Armor Thermic Hardener"
+    "typeName": "Draclira's Modified Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
@@ -43592,28 +43592,28 @@
     "typeID": 15172, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Brynn's Modified Thermic Plating"
+    "typeName": "Brynn's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15174, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Tuvan's Modified Thermic Plating"
+    "typeName": "Tuvan's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15176, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Setele's Modified Thermic Plating"
+    "typeName": "Setele's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15178, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Cormack's Modified Thermic Plating"
+    "typeName": "Cormack's Modified Thermal Plating"
   }, 
   {
     "volume": 5.0, 
@@ -43732,28 +43732,28 @@
     "typeID": 15212, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Brynn's Modified Energized Thermic Membrane"
+    "typeName": "Brynn's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15214, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Tuvan's Modified Energized Thermic Membrane"
+    "typeName": "Tuvan's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15216, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Setele's Modified Energized Thermic Membrane"
+    "typeName": "Setele's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15218, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Cormack's Modified Energized Thermic Membrane"
+    "typeName": "Cormack's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
@@ -43872,28 +43872,28 @@
     "typeID": 15252, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Brynn's Modified Armor Thermic Hardener"
+    "typeName": "Brynn's Modified Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15254, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Tuvan's Modified Armor Thermic Hardener"
+    "typeName": "Tuvan's Modified Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15256, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Setele's Modified Armor Thermic Hardener"
+    "typeName": "Setele's Modified Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 15258, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Cormack's Modified Armor Thermic Hardener"
+    "typeName": "Cormack's Modified Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
@@ -44607,7 +44607,7 @@
     "typeID": 15453, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Shaqil's Modified Energized Thermic Membrane"
+    "typeName": "Shaqil's Modified Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
@@ -45440,14 +45440,14 @@
     "typeID": 15685, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Imperial Navy Thermic Plating"
+    "typeName": "Imperial Navy Thermal Plating"
   }, 
   {
     "volume": 0.01, 
     "typeID": 15686, 
     "groupID": 163, 
     "market": false, 
-    "typeName": "Imperial Navy Thermic Plating Blueprint"
+    "typeName": "Imperial Navy Thermal Plating Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -45510,14 +45510,14 @@
     "typeID": 15695, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Republic Fleet Thermic Plating"
+    "typeName": "Republic Fleet Thermal Plating"
   }, 
   {
     "volume": 0.01, 
     "typeID": 15696, 
     "groupID": 163, 
     "market": false, 
-    "typeName": "Republic Fleet Thermic Plating Blueprint"
+    "typeName": "Republic Fleet Thermal Plating Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -45580,14 +45580,14 @@
     "typeID": 15705, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Imperial Navy Armor Thermic Hardener"
+    "typeName": "Imperial Navy Armor Thermal Hardener"
   }, 
   {
     "volume": 0.01, 
     "typeID": 15706, 
     "groupID": 348, 
     "market": false, 
-    "typeName": "Imperial Navy Armor Thermic Hardener Blueprint"
+    "typeName": "Imperial Navy Armor Thermal Hardener Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -45636,14 +45636,14 @@
     "typeID": 15713, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Republic Fleet Armor Thermic Hardener"
+    "typeName": "Republic Fleet Armor Thermal Hardener"
   }, 
   {
     "volume": 0.01, 
     "typeID": 15714, 
     "groupID": 348, 
     "market": false, 
-    "typeName": "Republic Fleet Armor Thermic Hardener Blueprint"
+    "typeName": "Republic Fleet Armor Thermal Hardener Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -45692,14 +45692,14 @@
     "typeID": 15721, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Imperial Navy Energized Thermic Membrane"
+    "typeName": "Imperial Navy Energized Thermal Membrane"
   }, 
   {
     "volume": 0.01, 
     "typeID": 15722, 
     "groupID": 163, 
     "market": false, 
-    "typeName": "Imperial Navy Energized Thermic Membrane Blueprint"
+    "typeName": "Imperial Navy Energized Thermal Membrane Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -45762,14 +45762,14 @@
     "typeID": 15731, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Federation Navy Energized Thermic Membrane"
+    "typeName": "Federation Navy Energized Thermal Membrane"
   }, 
   {
     "volume": 0.01, 
     "typeID": 15732, 
     "groupID": 163, 
     "market": false, 
-    "typeName": "Federation Navy Energized Thermic Membrane Blueprint"
+    "typeName": "Federation Navy Energized Thermal Membrane Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -47022,14 +47022,14 @@
     "typeID": 15913, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Caldari Navy Thermic Dissipation Amplifier"
+    "typeName": "Caldari Navy Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 0.01, 
     "typeID": 15914, 
     "groupID": 296, 
     "market": false, 
-    "typeName": "Caldari Navy Thermic Dissipation Amplifier Blueprint"
+    "typeName": "Caldari Navy Thermal Dissipation Amplifier Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -47078,14 +47078,14 @@
     "typeID": 15921, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Republic Fleet Thermic Dissipation Amplifier"
+    "typeName": "Republic Fleet Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 0.01, 
     "typeID": 15922, 
     "groupID": 296, 
     "market": false, 
-    "typeName": "Republic Fleet Thermic Dissipation Amplifier Blueprint"
+    "typeName": "Republic Fleet Thermal Dissipation Amplifier Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -48429,7 +48429,7 @@
     "typeID": 16157, 
     "groupID": 328, 
     "market": false, 
-    "typeName": "CONCORD Armor Thermic Hardener"
+    "typeName": "CONCORD Armor Thermal Hardener"
   }, 
   {
     "volume": 0.0, 
@@ -49367,28 +49367,28 @@
     "typeID": 16337, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Upgraded Thermic Plating I"
+    "typeName": "Upgraded Thermal Plating I"
   }, 
   {
     "volume": 5.0, 
     "typeID": 16339, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Limited Thermic Plating I"
+    "typeName": "Limited Thermal Plating I"
   }, 
   {
     "volume": 5.0, 
     "typeID": 16341, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Experimental Thermic Plating I"
+    "typeName": "Experimental Thermal Plating I"
   }, 
   {
     "volume": 5.0, 
     "typeID": 16343, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Prototype Thermic Plating I"
+    "typeName": "Prototype Thermal Plating I"
   }, 
   {
     "volume": 5.0, 
@@ -49507,28 +49507,28 @@
     "typeID": 16377, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Upgraded Armor Thermic Hardener I"
+    "typeName": "Upgraded Armor Thermal Hardener I"
   }, 
   {
     "volume": 5.0, 
     "typeID": 16379, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Limited Armor Thermic Hardener I"
+    "typeName": "Limited Armor Thermal Hardener I"
   }, 
   {
     "volume": 5.0, 
     "typeID": 16381, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Experimental Armor Thermic Hardener I"
+    "typeName": "Experimental Armor Thermal Hardener I"
   }, 
   {
     "volume": 5.0, 
     "typeID": 16383, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Prototype Armor Thermic Hardener I"
+    "typeName": "Prototype Armor Thermal Hardener I"
   }, 
   {
     "volume": 5.0, 
@@ -49675,28 +49675,28 @@
     "typeID": 16425, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Upgraded Energized Thermic Membrane I"
+    "typeName": "Upgraded Energized Thermal Membrane I"
   }, 
   {
     "volume": 5.0, 
     "typeID": 16427, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Limited Energized Thermic Membrane I"
+    "typeName": "Limited Energized Thermal Membrane I"
   }, 
   {
     "volume": 5.0, 
     "typeID": 16429, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Experimental Energized Thermic Membrane I"
+    "typeName": "Experimental Energized Thermal Membrane I"
   }, 
   {
     "volume": 5.0, 
     "typeID": 16431, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Prototype Energized Thermic Membrane I"
+    "typeName": "Prototype Energized Thermal Membrane I"
   }, 
   {
     "volume": 5.0, 
@@ -55905,7 +55905,7 @@
     "typeID": 17497, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Caldari Navy Thermic Dissipation Field"
+    "typeName": "Caldari Navy Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
@@ -55982,14 +55982,14 @@
     "typeID": 17508, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Ammatar Navy Armor Thermic Hardener"
+    "typeName": "Ammatar Navy Armor Thermal Hardener"
   }, 
   {
     "volume": 0.01, 
     "typeID": 17509, 
     "groupID": 348, 
     "market": false, 
-    "typeName": "Ammatar Navy Armor Thermic Hardener Blueprint"
+    "typeName": "Ammatar Navy Armor Thermal Hardener Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -56192,14 +56192,14 @@
     "typeID": 17544, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Ammatar Navy Energized Thermic Membrane"
+    "typeName": "Ammatar Navy Energized Thermal Membrane"
   }, 
   {
     "volume": 0.01, 
     "typeID": 17545, 
     "groupID": 163, 
     "market": false, 
-    "typeName": "Ammatar Navy Energized Thermic Membrane Blueprint"
+    "typeName": "Ammatar Navy Energized Thermal Membrane Blueprint"
   }, 
   {
     "volume": 50.0, 
@@ -56283,14 +56283,14 @@
     "typeID": 17557, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Federation Navy Thermic Plating"
+    "typeName": "Federation Navy Thermal Plating"
   }, 
   {
     "volume": 0.01, 
     "typeID": 17558, 
     "groupID": 163, 
     "market": false, 
-    "typeName": "Federation Navy Thermic Plating Blueprint"
+    "typeName": "Federation Navy Thermal Plating Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -57956,14 +57956,14 @@
     "typeID": 17838, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Federation Navy Armor Thermic Hardener"
+    "typeName": "Federation Navy Armor Thermal Hardener"
   }, 
   {
     "volume": 0.01, 
     "typeID": 17839, 
     "groupID": 348, 
     "market": false, 
-    "typeName": "Federation Navy Armor Thermic Hardener Blueprint"
+    "typeName": "Federation Navy Armor Thermal Hardener Blueprint"
   }, 
   {
     "volume": 0.1, 
@@ -60280,28 +60280,28 @@
     "typeID": 18724, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Corpii C-Type Thermic Plating"
+    "typeName": "Corpii C-Type Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18726, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Centii C-Type Thermic Plating"
+    "typeName": "Centii C-Type Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18728, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Corpii B-Type Thermic Plating"
+    "typeName": "Corpii B-Type Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18730, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Centii B-Type Thermic Plating"
+    "typeName": "Centii B-Type Thermal Plating"
   }, 
   {
     "volume": 5.0, 
@@ -60392,14 +60392,14 @@
     "typeID": 18764, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Corpii A-Type Thermic Plating"
+    "typeName": "Corpii A-Type Thermal Plating"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18766, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Centii A-Type Thermic Plating"
+    "typeName": "Centii A-Type Thermal Plating"
   }, 
   {
     "volume": 5.0, 
@@ -60434,7 +60434,7 @@
     "typeID": 18777, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Coreli C-Type Thermic Plating"
+    "typeName": "Coreli C-Type Thermal Plating"
   }, 
   {
     "volume": 5.0, 
@@ -60469,7 +60469,7 @@
     "typeID": 18787, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Coreli B-Type Thermic Plating"
+    "typeName": "Coreli B-Type Thermal Plating"
   }, 
   {
     "volume": 5.0, 
@@ -60504,7 +60504,7 @@
     "typeID": 18797, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Coreli A-Type Thermic Plating"
+    "typeName": "Coreli A-Type Thermal Plating"
   }, 
   {
     "volume": 5.0, 
@@ -60539,7 +60539,7 @@
     "typeID": 18807, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Corelum C-Type Energized Thermic Membrane"
+    "typeName": "Corelum C-Type Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
@@ -60574,7 +60574,7 @@
     "typeID": 18817, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Corelum B-Type Energized Thermic Membrane"
+    "typeName": "Corelum B-Type Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
@@ -60609,7 +60609,7 @@
     "typeID": 18827, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Corelum A-Type Energized Thermic Membrane"
+    "typeName": "Corelum A-Type Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
@@ -60672,14 +60672,14 @@
     "typeID": 18845, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Corpum C-Type Energized Thermic Membrane"
+    "typeName": "Corpum C-Type Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18847, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Centum C-Type Energized Thermic Membrane"
+    "typeName": "Centum C-Type Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
@@ -60728,28 +60728,28 @@
     "typeID": 18861, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Corpum B-Type Energized Thermic Membrane"
+    "typeName": "Corpum B-Type Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18863, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Centum B-Type Energized Thermic Membrane"
+    "typeName": "Centum B-Type Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18865, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Corpum A-Type Energized Thermic Membrane"
+    "typeName": "Corpum A-Type Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18867, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Centum A-Type Energized Thermic Membrane"
+    "typeName": "Centum A-Type Energized Thermal Membrane"
   }, 
   {
     "volume": 5.0, 
@@ -60854,14 +60854,14 @@
     "typeID": 18897, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Corpus C-Type Armor Thermic Hardener"
+    "typeName": "Corpus C-Type Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18899, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Centus C-Type Armor Thermic Hardener"
+    "typeName": "Centus C-Type Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
@@ -60910,28 +60910,28 @@
     "typeID": 18913, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Corpus B-Type Armor Thermic Hardener"
+    "typeName": "Corpus B-Type Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18915, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Centus B-Type Armor Thermic Hardener"
+    "typeName": "Centus B-Type Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18917, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Corpus A-Type Armor Thermic Hardener"
+    "typeName": "Corpus A-Type Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18919, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Centus A-Type Armor Thermic Hardener"
+    "typeName": "Centus A-Type Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
@@ -61022,14 +61022,14 @@
     "typeID": 18945, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Corpus X-Type Armor Thermic Hardener"
+    "typeName": "Corpus X-Type Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
     "typeID": 18947, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Centus X-Type Armor Thermic Hardener"
+    "typeName": "Centus X-Type Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
@@ -61057,7 +61057,7 @@
     "typeID": 18955, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Core C-Type Armor Thermic Hardener"
+    "typeName": "Core C-Type Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
@@ -61085,7 +61085,7 @@
     "typeID": 18963, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Core B-Type Armor Thermic Hardener"
+    "typeName": "Core B-Type Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
@@ -61113,7 +61113,7 @@
     "typeID": 18971, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Core A-Type Armor Thermic Hardener"
+    "typeName": "Core A-Type Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
@@ -61141,7 +61141,7 @@
     "typeID": 18979, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Core X-Type Armor Thermic Hardener"
+    "typeName": "Core X-Type Armor Thermal Hardener"
   }, 
   {
     "volume": 5.0, 
@@ -61883,7 +61883,7 @@
     "typeID": 19211, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Pithum C-Type Thermic Dissipation Amplifier"
+    "typeName": "Pithum C-Type Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
@@ -61911,7 +61911,7 @@
     "typeID": 19219, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Pithum B-Type Thermic Dissipation Amplifier"
+    "typeName": "Pithum B-Type Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
@@ -61939,7 +61939,7 @@
     "typeID": 19227, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Pithum A-Type Thermic Dissipation Amplifier"
+    "typeName": "Pithum A-Type Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
@@ -61974,14 +61974,14 @@
     "typeID": 19237, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Gistum C-Type Thermic Dissipation Amplifier"
+    "typeName": "Gistum C-Type Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
     "typeID": 19239, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Gistum B-Type Thermic Dissipation Amplifier"
+    "typeName": "Gistum B-Type Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
@@ -62023,7 +62023,7 @@
     "typeID": 19251, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "Gistum A-Type Thermic Dissipation Amplifier"
+    "typeName": "Gistum A-Type Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 5.0, 
@@ -62072,14 +62072,14 @@
     "typeID": 19261, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Gist C-Type Thermic Dissipation Field"
+    "typeName": "Gist C-Type Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
     "typeID": 19262, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Pith C-Type Thermic Dissipation Field"
+    "typeName": "Pith C-Type Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
@@ -62114,14 +62114,14 @@
     "typeID": 19267, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Gist B-Type Thermic Dissipation Field"
+    "typeName": "Gist B-Type Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
     "typeID": 19268, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Pith B-Type Thermic Dissipation Field"
+    "typeName": "Pith B-Type Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
@@ -62184,14 +62184,14 @@
     "typeID": 19277, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Gist A-Type Thermic Dissipation Field"
+    "typeName": "Gist A-Type Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
     "typeID": 19278, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Pith A-Type Thermic Dissipation Field"
+    "typeName": "Pith A-Type Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
@@ -62226,14 +62226,14 @@
     "typeID": 19283, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Gist X-Type Thermic Dissipation Field"
+    "typeName": "Gist X-Type Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
     "typeID": 19284, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Pith X-Type Thermic Dissipation Field"
+    "typeName": "Pith X-Type Thermal Dissipation Field"
   }, 
   {
     "volume": 5.0, 
@@ -67214,14 +67214,14 @@
     "typeID": 20607, 
     "groupID": 295, 
     "market": true, 
-    "typeName": "'High Noon' Thermic Dissipation Amplifier"
+    "typeName": "'High Noon' Thermal Dissipation Amplifier"
   }, 
   {
     "volume": 0.01, 
     "typeID": 20608, 
     "groupID": 296, 
     "market": false, 
-    "typeName": "'High Noon' Thermic Dissipation Amplifier Blueprint"
+    "typeName": "'High Noon' Thermal Dissipation Amplifier Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -67396,14 +67396,14 @@
     "typeID": 20635, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "'Desert Heat' Thermic Dissipation Field"
+    "typeName": "'Desert Heat' Thermal Dissipation Field"
   }, 
   {
     "volume": 0.01, 
     "typeID": 20636, 
     "groupID": 157, 
     "market": false, 
-    "typeName": "'Desert Heat' Thermic Dissipation Field Blueprint"
+    "typeName": "'Desert Heat' Thermal Dissipation Field Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -78008,7 +78008,7 @@
     "typeID": 22809, 
     "groupID": 1210, 
     "market": true, 
-    "typeName": "Thermic Armor Compensation"
+    "typeName": "Thermal Armor Compensation"
   }, 
   {
     "volume": 16450.0, 
@@ -78504,14 +78504,14 @@
     "typeID": 22881, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "'Moonshine' Energized Thermic Membrane I"
+    "typeName": "'Moonshine' Energized Thermal Membrane I"
   }, 
   {
     "volume": 0.01, 
     "typeID": 22882, 
     "groupID": 163, 
     "market": false, 
-    "typeName": "'Moonshine' Energized Thermic Membrane I Blueprint"
+    "typeName": "'Moonshine' Energized Thermal Membrane I Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -95465,14 +95465,14 @@
     "typeID": 25892, 
     "groupID": 773, 
     "market": true, 
-    "typeName": "Large Anti-Thermic Pump I"
+    "typeName": "Large Anti-Thermal Pump I"
   }, 
   {
     "volume": 0.01, 
     "typeID": 25893, 
     "groupID": 787, 
     "market": true, 
-    "typeName": "Large Anti-Thermic Pump I Blueprint"
+    "typeName": "Large Anti-Thermal Pump I Blueprint"
   }, 
   {
     "volume": 20.0, 
@@ -97656,14 +97656,14 @@
     "typeID": 26292, 
     "groupID": 773, 
     "market": true, 
-    "typeName": "Large Anti-Thermic Pump II"
+    "typeName": "Large Anti-Thermal Pump II"
   }, 
   {
     "volume": 0.01, 
     "typeID": 26293, 
     "groupID": 787, 
     "market": false, 
-    "typeName": "Large Anti-Thermic Pump II Blueprint"
+    "typeName": "Large Anti-Thermal Pump II Blueprint"
   }, 
   {
     "volume": 20.0, 
@@ -110083,14 +110083,14 @@
     "typeID": 28528, 
     "groupID": 328, 
     "market": true, 
-    "typeName": "Khanid Navy Armor Thermic Hardener"
+    "typeName": "Khanid Navy Armor Thermal Hardener"
   }, 
   {
     "volume": 0.01, 
     "typeID": 28529, 
     "groupID": 348, 
     "market": false, 
-    "typeName": "Khanid Navy Armor Thermic Hardener Blueprint"
+    "typeName": "Khanid Navy Armor Thermal Hardener Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -110181,14 +110181,14 @@
     "typeID": 28542, 
     "groupID": 326, 
     "market": true, 
-    "typeName": "Khanid Navy Energized Thermic Membrane"
+    "typeName": "Khanid Navy Energized Thermal Membrane"
   }, 
   {
     "volume": 0.01, 
     "typeID": 28543, 
     "groupID": 163, 
     "market": false, 
-    "typeName": "Khanid Navy Energized Thermic Membrane Blueprint"
+    "typeName": "Khanid Navy Energized Thermal Membrane Blueprint"
   }, 
   {
     "volume": 50.0, 
@@ -110300,14 +110300,14 @@
     "typeID": 28559, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Khanid Navy Thermic Plating"
+    "typeName": "Khanid Navy Thermal Plating"
   }, 
   {
     "volume": 0.01, 
     "typeID": 28560, 
     "groupID": 163, 
     "market": false, 
-    "typeName": "Khanid Navy Thermic Plating Blueprint"
+    "typeName": "Khanid Navy Thermal Plating Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -119288,14 +119288,14 @@
     "typeID": 30342, 
     "groupID": 77, 
     "market": true, 
-    "typeName": "Civilian Thermic Dissipation Field"
+    "typeName": "Civilian Thermal Dissipation Field"
   }, 
   {
     "volume": 0.01, 
     "typeID": 30343, 
     "groupID": 157, 
     "market": true, 
-    "typeName": "Civilian Thermic Dissipation Field Blueprint"
+    "typeName": "Civilian Thermal Dissipation Field Blueprint"
   }, 
   {
     "volume": 1.0, 
@@ -122711,84 +122711,84 @@
     "typeID": 31033, 
     "groupID": 773, 
     "market": true, 
-    "typeName": "Small Anti-Thermic Pump I"
+    "typeName": "Small Anti-Thermal Pump I"
   }, 
   {
     "volume": 0.01, 
     "typeID": 31034, 
     "groupID": 787, 
     "market": true, 
-    "typeName": "Small Anti-Thermic Pump I Blueprint"
+    "typeName": "Small Anti-Thermal Pump I Blueprint"
   }, 
   {
     "volume": 10.0, 
     "typeID": 31035, 
     "groupID": 773, 
     "market": true, 
-    "typeName": "Medium Anti-Thermic Pump I"
+    "typeName": "Medium Anti-Thermal Pump I"
   }, 
   {
     "volume": 0.01, 
     "typeID": 31036, 
     "groupID": 787, 
     "market": true, 
-    "typeName": "Medium Anti-Thermic Pump I Blueprint"
+    "typeName": "Medium Anti-Thermal Pump I Blueprint"
   }, 
   {
     "volume": 40.0, 
     "typeID": 31037, 
     "groupID": 773, 
     "market": true, 
-    "typeName": "Capital Anti-Thermic Pump I"
+    "typeName": "Capital Anti-Thermal Pump I"
   }, 
   {
     "volume": 0.01, 
     "typeID": 31038, 
     "groupID": 787, 
     "market": true, 
-    "typeName": "Capital Anti-Thermic Pump I Blueprint"
+    "typeName": "Capital Anti-Thermal Pump I Blueprint"
   }, 
   {
     "volume": 5.0, 
     "typeID": 31039, 
     "groupID": 773, 
     "market": true, 
-    "typeName": "Small Anti-Thermic Pump II"
+    "typeName": "Small Anti-Thermal Pump II"
   }, 
   {
     "volume": 0.01, 
     "typeID": 31040, 
     "groupID": 787, 
     "market": false, 
-    "typeName": "Small Anti-Thermic Pump II Blueprint"
+    "typeName": "Small Anti-Thermal Pump II Blueprint"
   }, 
   {
     "volume": 10.0, 
     "typeID": 31041, 
     "groupID": 773, 
     "market": true, 
-    "typeName": "Medium Anti-Thermic Pump II"
+    "typeName": "Medium Anti-Thermal Pump II"
   }, 
   {
     "volume": 0.01, 
     "typeID": 31042, 
     "groupID": 787, 
     "market": false, 
-    "typeName": "Medium Anti-Thermic Pump II Blueprint"
+    "typeName": "Medium Anti-Thermal Pump II Blueprint"
   }, 
   {
     "volume": 40.0, 
     "typeID": 31043, 
     "groupID": 773, 
     "market": true, 
-    "typeName": "Capital Anti-Thermic Pump II"
+    "typeName": "Capital Anti-Thermal Pump II"
   }, 
   {
     "volume": 0.01, 
     "typeID": 31044, 
     "groupID": 787, 
     "market": false, 
-    "typeName": "Capital Anti-Thermic Pump II Blueprint"
+    "typeName": "Capital Anti-Thermal Pump II Blueprint"
   }, 
   {
     "volume": 5.0, 
@@ -132119,14 +132119,14 @@
     "typeID": 32809, 
     "groupID": 98, 
     "market": true, 
-    "typeName": "Ammatar Navy Thermic Plating"
+    "typeName": "Ammatar Navy Thermal Plating"
   }, 
   {
     "volume": 0.01, 
     "typeID": 32810, 
     "groupID": 163, 
     "market": false, 
-    "typeName": "Ammatar Navy Thermic Plating Blueprint"
+    "typeName": "Ammatar Navy Thermal Plating Blueprint"
   }, 
   {
     "volume": 265000.0, 
@@ -152405,35 +152405,35 @@
     "typeID": 36459, 
     "groupID": 226, 
     "market": false, 
-    "typeName": ""
+    "typeName": "Massive Debris"
   }, 
   {
     "volume": 10000000000.0, 
     "typeID": 36460, 
     "groupID": 226, 
     "market": false, 
-    "typeName": ""
+    "typeName": "Massive Debris"
   }, 
   {
     "volume": 10000000000.0, 
     "typeID": 36461, 
     "groupID": 226, 
     "market": false, 
-    "typeName": ""
+    "typeName": "Massive Debris"
   }, 
   {
     "volume": 10000000000.0, 
     "typeID": 36462, 
     "groupID": 226, 
     "market": false, 
-    "typeName": ""
+    "typeName": "Massive Debris"
   }, 
   {
     "volume": 10000000000.0, 
     "typeID": 36463, 
     "groupID": 226, 
     "market": false, 
-    "typeName": ""
+    "typeName": "Massive Debris"
   }, 
   {
     "volume": 0.0, 
@@ -154319,6 +154319,83 @@
     "typeName": "Tornado Golden Serenity Only SKIN (365 Days)"
   }, 
   {
+    "volume": 0.1, 
+    "typeID": 36902, 
+    "groupID": 1314, 
+    "market": true, 
+    "typeName": "Coalesced Element"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36903, 
+    "groupID": 952, 
+    "market": false, 
+    "typeName": "Sentinel Repository"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36904, 
+    "groupID": 952, 
+    "market": false, 
+    "typeName": "Barbican Repository"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36905, 
+    "groupID": 952, 
+    "market": false, 
+    "typeName": "Vidette Repository"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36906, 
+    "groupID": 952, 
+    "market": false, 
+    "typeName": "Conflux Repository"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36907, 
+    "groupID": 952, 
+    "market": false, 
+    "typeName": "Redoubt Repository"
+  }, 
+  {
+    "volume": 1.0, 
+    "typeID": 36908, 
+    "groupID": 303, 
+    "market": true, 
+    "typeName": "Antipharmakon Thureo"
+  }, 
+  {
+    "volume": 1.0, 
+    "typeID": 36909, 
+    "groupID": 303, 
+    "market": true, 
+    "typeName": "Antipharmakon Kosybo"
+  }, 
+  {
+    "volume": 1.0, 
+    "typeID": 36910, 
+    "groupID": 303, 
+    "market": true, 
+    "typeName": "Antipharmakon Iokira"
+  }, 
+  {
+    "volume": 1.0, 
+    "typeID": 36911, 
+    "groupID": 303, 
+    "market": true, 
+    "typeName": "Antipharmakon Toxot"
+  }, 
+  {
+    "volume": 1.0, 
+    "typeID": 36912, 
+    "groupID": 303, 
+    "market": true, 
+    "typeName": "Antipharmakon Aeolis"
+  }, 
+  {
     "volume": 0.01, 
     "typeID": 36913, 
     "groupID": 1311, 
@@ -154347,39 +154424,186 @@
     "typeName": "Omen Blood Raiders SKIN (Permanent)"
   }, 
   {
-    "volume": 28700.0, 
+    "volume": 27500.0, 
+    "typeID": 36917, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Apocalypse Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36918, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Armageddon Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36919, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Abaddon Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36920, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Raven Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36921, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Rohk Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36922, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Scorpion Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36923, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Megathron Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36924, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Dominix Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36925, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Hyperion Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36926, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Typhoon Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36927, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Maelstrom Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36928, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Tempest Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36929, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Nestor Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36930, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Barghest Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36931, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "CONCORD Battleship Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36932, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Machariel Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36933, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Nightmare Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36934, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Primae Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36935, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Noctis Wreck"
+  }, 
+  {
+    "volume": 27500.0, 
+    "typeID": 36936, 
+    "groupID": 226, 
+    "market": false, 
+    "typeName": "Drifter Battleship Wreck"
+  }, 
+  {
+    "volume": 28600.0, 
     "typeID": 36939, 
-    "groupID": 1453, 
+    "groupID": 606, 
     "market": false, 
     "typeName": "Blood Raider Gauntlet Frigate"
   }, 
   {
     "volume": 118000.0, 
     "typeID": 36940, 
-    "groupID": 1454, 
+    "groupID": 604, 
     "market": false, 
     "typeName": "Blood Raider Gauntlet Cruiser"
   }, 
   {
     "volume": 118000.0, 
     "typeID": 36941, 
-    "groupID": 1455, 
+    "groupID": 602, 
     "market": false, 
     "typeName": "Blood Raider Gauntlet Battlecruiser"
   }, 
   {
     "volume": 1.0, 
     "typeID": 36946, 
-    "groupID": 303, 
-    "market": false, 
-    "typeName": "Blood Raider Cerebral Accelerator"
+    "groupID": 1194, 
+    "market": true, 
+    "typeName": "Expired Blood Raider Cerebral Accelerator"
   }, 
   {
     "volume": 1.0, 
     "typeID": 36948, 
-    "groupID": 303, 
-    "market": false, 
-    "typeName": "Blood Raider Advanced Cerebral Accelerator"
+    "groupID": 1194, 
+    "market": true, 
+    "typeName": "Expired Blood Raider Advanced Cerebral Accelerator"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 36949, 
+    "groupID": 1461, 
+    "market": true, 
+    "typeName": "Coalesced Element Blueprint"
   }, 
   {
     "volume": 0.01, 
@@ -154821,6 +155045,699 @@
     "groupID": 1311, 
     "market": false, 
     "typeName": "Mackinaw ORE Development Serenity Only SKIN (Permanent)"
+  }, 
+  {
+    "volume": 50000.0, 
+    "typeID": 37135, 
+    "groupID": 1283, 
+    "market": true, 
+    "typeName": "Discovery"
+  }, 
+  {
+    "volume": 1.0, 
+    "typeID": 37136, 
+    "groupID": 353, 
+    "market": false, 
+    "typeName": "Tournament Smartbomb"
+  }, 
+  {
+    "volume": 1.0, 
+    "typeID": 37137, 
+    "groupID": 353, 
+    "market": false, 
+    "typeName": "QA Resistance Eliminator"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37484, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Crucifier Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37485, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Executioner Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37486, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Inquisitor Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37487, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Magnate Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37488, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Punisher Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37489, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Tormentor Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37490, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Retribution Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37491, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Vengeance Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37492, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Anathema Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37493, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Purifier Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37494, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Sentinel Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37495, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Crusader Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37496, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Malediction Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37497, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Coercer Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37498, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Dragoon Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37499, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Heretic Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37500, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Arbitrator Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37501, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Augoror Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37502, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Maller Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37503, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Omen Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37504, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Sacrilege Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37505, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Zealot Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37506, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Devoter Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37507, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Guardian Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37508, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Curse Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37509, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Pilgrim Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37510, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Harbinger Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37511, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Oracle Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37512, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Prophecy Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37513, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Absolution Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37514, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Damnation Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37515, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Abaddon Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37516, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Apocalypse Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37517, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Armageddon Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37518, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Redeemer Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37519, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Paladin Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37520, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Revelation Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37521, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Archon Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37522, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Aeon Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37523, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Avatar Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37524, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Bestower Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37525, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Sigil Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37526, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Prorator Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37527, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Impel Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37528, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Providence Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37529, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Ark Raata Sunset SKIN (Permanent)"
+  }, 
+  {
+    "volume": 20.0, 
+    "typeID": 37542, 
+    "groupID": 920, 
+    "market": false, 
+    "typeName": "Tournament Resistance Lowering Beacon"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37547, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Atron Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37548, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Imicus Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37549, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Incursus Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37550, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Maulus Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37551, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Navitas Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37552, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Tristan Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37553, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Enyo Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37554, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Ishkur Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37555, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Helios Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37556, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Nemesis Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37557, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Keres Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37558, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Ares Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37559, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Taranis Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37560, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Algos Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37561, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Catalyst Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37562, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Eris Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37563, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Celestis Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37564, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Exequror Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37565, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Thorax Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37566, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Vexor Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37567, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Deimos Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37568, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Ishtar Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37569, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Phobos Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37570, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Oneiros Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37571, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Arazu Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37572, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Lachesis Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37573, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Brutix Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37574, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Myrmidon Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37575, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Talos Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37576, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Astarte Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37577, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Eos Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37578, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Dominix Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37579, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Hyperion Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37580, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Megathron Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37581, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Sin Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37582, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Kronos Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37583, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Moros Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37584, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Thanatos Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37585, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Nyx Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37586, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Erebus Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37587, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Epithal Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37588, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Iteron Mark V Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37589, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Kryos Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37590, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Miasmos Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37591, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Nereus Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37592, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Viator Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37593, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Occator Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37594, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Obelisk Valimor Legacy SKIN (Permanent)"
+  }, 
+  {
+    "volume": 0.01, 
+    "typeID": 37595, 
+    "groupID": 1311, 
+    "market": true, 
+    "typeName": "Anshar Valimor Legacy SKIN (Permanent)"
   }, 
   {
     "volume": 0.01, 
