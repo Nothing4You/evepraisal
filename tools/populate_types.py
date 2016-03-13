@@ -12,6 +12,7 @@ import shutil
 import sqlite3
 import tempfile
 import urllib.request
+import io
 
 # from reverence import blue, const
 
@@ -30,7 +31,7 @@ def download_database(destination_path):
     decompressor = bz2.BZ2Decompressor()
     response = urllib.request.urlopen(SQLITE_DUMP_URL)
 
-    total_bytes = int(response.info().getheader('Content-Length').strip())
+    total_bytes = int(response.getheader('Content-Length').strip())
     chunk = 1000000  # 1 megabyte at a time
     bytes_read = 0
     with open(destination_path, 'wb') as f:
@@ -111,7 +112,7 @@ def main():
         print("Opening database file")
         conn = sqlite3.connect(db_path)
         conn.row_factory = sqlite3.Row
-        conn.text_factory = str
+        conn.text_factory = lambda x: str(x, 'cp1252')
         c = conn.cursor()
 
         print("Build type information")
@@ -119,7 +120,7 @@ def main():
 
         types_output_file = 'data/types.json'
         print("Output types to %s" % types_output_file)
-        with open(types_output_file, 'w') as f:
+        with io.open(types_output_file, 'w', encoding='utf8') as f:
             f.write(json.dumps(all_types, indent=2, ensure_ascii=False))
     finally:
         shutil.rmtree(temp_dir)
