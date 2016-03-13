@@ -1,4 +1,5 @@
 import json
+import io
 
 from . import db
 from .helpers import iter_types
@@ -112,7 +113,7 @@ def row_to_dict(row):
                 for col in list(row.__table__.columns.keys()))
 
 
-TYPES = json.loads(open('data/types.json').read())
+TYPES = json.loads(io.open('data/types.json', encoding='utf-8').read(), "utf-8")
 TYPES_BY_NAME = dict((t['typeName'].lower(), t) for t in reversed(TYPES))
 TYPES_BY_ID = dict((t['typeID'], t) for t in TYPES)
 
