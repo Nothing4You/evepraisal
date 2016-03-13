@@ -74,7 +74,7 @@ SELECT
     marketGroupID
 FROM invtypes'''):
 
-        print("Populating info for: %s" % type_name.encode('utf-8'))
+        print("Populating info for: %s" % type_name)
 
         has_market = market_group_id is not None
         d = {
@@ -111,6 +111,7 @@ def main():
         print("Opening database file")
         conn = sqlite3.connect(db_path)
         conn.row_factory = sqlite3.Row
+        conn.text_factory = str
         c = conn.cursor()
 
         print("Build type information")
@@ -119,7 +120,7 @@ def main():
         types_output_file = 'data/types.json'
         print("Output types to %s" % types_output_file)
         with open(types_output_file, 'w') as f:
-            f.write(json.dumps(all_types, indent=2))
+            f.write(json.dumps(all_types, indent=2, ensure_ascii=False))
     finally:
         shutil.rmtree(temp_dir)
 
